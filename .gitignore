@@ -1,0 +1,29 @@
+# General
+*.log
+.DS_Store
+build/
+coverage/
+
+# Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+pubspec.lock
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+ios/Flutter/App.framework
+ios/Flutter/flutter_assets/
+ios/Pods/
+ios/.symlinks/
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# IDEs
+.idea/
+.vscode/
+*.iml
